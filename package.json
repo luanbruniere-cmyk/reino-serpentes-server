@@ -1,0 +1,8 @@
+{
+  "name": "reino-serpentes-server",
+  "version": "1.0.0",
+  "description": "Servidor multiplayer do Reino das Serpentes (sem dependencias externas)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
